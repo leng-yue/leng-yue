@@ -1,0 +1,16 @@
+# sidebar:
+#   menu:
+#     post: '[btn.blog](/)'
+#     wiki: '[btn.wiki](/wiki/)'
+#     notes: '[笔记](/notes/)'
+#     more: '[更多](/more/)'
+
+comments:
+  service: beaudar
+  beaudar:
+    repo: leng-yue/leng-yue
+    branch: main
+    issue-termL: pathname
+    theme: photon-dark
+    crossorigin: anonymous
+    async: true
