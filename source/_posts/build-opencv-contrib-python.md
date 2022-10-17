@@ -1,5 +1,8 @@
 ---
 title: 构建 OpenCV Contrib Python
+tags:
+- OpenCV
+- Python
 ---
 很多时候我们需要使用 OpenCV 的一些功能 (如 viz), 但是 OpenCV 官方的 Python Contrib 版本并没有提供这些功能, 这时候我们就需要使用自己构建.  
 然而, 手动从官方下载源码然后构建相当繁琐, 下面的代码将使用 pip 来构建 OpenCV Contrib Python.
