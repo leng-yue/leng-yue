@@ -5,6 +5,7 @@
 # Site
 title: 冷月的博客
 avatar: https://avatars.githubusercontent.com/u/25119060
+favicon: /images/favicon.png
 subtitle: ''
 description: ''
 keywords:
@@ -12,7 +13,7 @@ author: Lengyue
 language: 
   - zh-CN
   - en
-timezone: ''
+timezone: America/New_York
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

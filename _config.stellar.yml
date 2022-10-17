@@ -1,10 +1,3 @@
-# sidebar:
-#   menu:
-#     post: '[btn.blog](/)'
-#     wiki: '[btn.wiki](/wiki/)'
-#     notes: '[笔记](/notes/)'
-#     more: '[更多](/more/)'
-
 comments:
   service: beaudar
   beaudar:
@@ -14,3 +7,27 @@ comments:
     theme: photon-dark
     crossorigin: anonymous
     async: true
+
+sidebar:
+#   menu:
+#     post: '[btn.blog](/)'
+#     wiki: '[项目](/wiki/)'
+#     notes: '[笔记](/notes/)'
+  widgets:
+    # Recent update
+    recent:
+      layout: recent
+      rss: /atom.xml # npm i hexo-generator-feed
+      limit: 5 # Count of posts
+    # TOC (valid only in layout:post/wiki)
+    toc:
+      layout: toc
+      list_number: false
+      min_depth: 2
+      max_depth: 5
+    # welcome
+    welcome:
+      layout: markdown
+      title: 欢迎
+      content: |
+        网站正在建设中...
