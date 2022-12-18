@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Genius Invokation TCG simulator.
+
 <!--
 **leng-yue/leng-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <table border="0">
  <tr>
-![Lengyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=leng-yue&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=400)
+    <td><img src="https://github-readme-stats.vercel.app/api?username=leng-yue&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leng-yue&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" /></td>
  </tr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leng-yue&count_private=true&layout=compact&theme=gradient&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 </table>
