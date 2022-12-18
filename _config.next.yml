@@ -588,8 +588,8 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: leng-yue
   count: true
 
 # DisqusJS
