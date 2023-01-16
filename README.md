@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Genius Invokation TCG simulator.
+- 🔭 I’m currently working on TTS / SVS / SVC models.
 
 <!--
 **leng-yue/leng-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
