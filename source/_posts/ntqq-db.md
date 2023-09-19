@@ -106,9 +106,9 @@ int sqlite3_key_v2(
 /Users/user/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_{MD5}/nt_db
 ```
 
-复制你需要的文件, 如 `nt_msg.db`, 跳过前 1024 个字节:
+复制你需要的文件, 如 `profile_info.db`, 跳过前 1024 个字节:
 ```bash
-cp "/Users/lengyue/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_cc067b8bcbf8980fabd93574e09d9efa/nt_db/profile_info.db" test.db
+cp "/Users/user/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_cc067b8bcbf8980fabd93574e09d9efa/nt_db/profile_info.db" test.db
 cat test.db | tail -c +1025 > test.clean.db
 rm test.db
 ```
