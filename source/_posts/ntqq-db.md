@@ -10,7 +10,7 @@ date: 2023/09/19
 
 参考资料 (win): [Young-Lord/qq-win-db-key](https://github.com/Young-Lord/qq-win-db-key/blob/master/nt%20qq%20win%20db%20%E6%95%99%E7%A8%8B.md)
 
-该方案于 2021 年 9 月 19 日在 NTQQ 6.9.17 上测试通过. 严禁用于非法用途.
+该方案于 2023 年 9 月 19 日在 NTQQ 6.9.17 上测试通过. 严禁用于非法用途.
 
 ## 1. 准备工作
 在开始解析之前, 我们需要准备一些工具:
