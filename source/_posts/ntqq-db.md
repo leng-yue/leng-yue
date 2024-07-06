@@ -8,7 +8,7 @@ date: 2023/09/19
 ## 0. 引言
 为了让每个人都可以把自己练入 LLM, 制作自己的数字分身. 解析 QQ 数据库无疑是快速获得语料库的最佳途径. 然而, 众所周知, QQ 的数据库是加密的 SQLite 数据库, 且不幸的是, 在最新的 NTQQ 中数据库的加密方式已经发生了变化. 本文将介绍如何解析 Mac 的 NTQQ 数据库.
 
-参考资料 (win): [Young-Lord/qq-win-db-key](https://github.com/Young-Lord/qq-win-db-key/blob/master/nt%20qq%20win%20db%20%E6%95%99%E7%A8%8B.md)
+参考资料 (win): [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key)
 
 该方案于 2023 年 9 月 19 日在 NTQQ 6.9.17 上测试通过. 严禁用于非法用途.
 
@@ -126,5 +126,6 @@ rm test.db
 本文介绍了如何解析 NTQQ 的数据库, 以及如何使用 DB Browser for SQLite 浏览数据库.  
 需要注意的是, 数据库结构仍需分析, 本文仅仅是提供了解密的方法.  
 
-再次感谢 [Young-Lord/qq-win-db-key](https://github.com/Young-Lord/qq-win-db-key/blob/master/nt%20qq%20win%20db%20%E6%95%99%E7%A8%8B.md) 提供的思路.  
+再次感谢 [QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key)
+
 再次声明, 本文仅用于学习交流, 严禁用于非法用途.
