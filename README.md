@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <table border="0">
  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=leng-yue&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leng-yue&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" /></td>
+    <td><img src="https://github-readme-stats-seven-sage-72.vercel.app/api?username=leng-yue&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
+    <td><img src="https://github-readme-stats-seven-sage-72.vercel.app/api/top-langs/?username=leng-yue&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" /></td>
  </tr>
 </table>
